@@ -20,9 +20,9 @@ const Dashboard = () => {
                         <h5 className="text-center text-secundary">Todas as Vendas</h5>
                         <DonutChart />
                     </div>
-                    <h2 className="text-primary py-3">Todas as Vendas</h2>
-                    <DataTable />
                 </div>
+                <h2 className="text-primary py-3">Todas as Vendas</h2>
+                <DataTable />
             </div>
             <Footer />
         </Fragment>
